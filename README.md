@@ -1,10 +1,10 @@
-# Snappy - Chat Application 
-Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+# Conversify - Chat Application 
+Conversify is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
 
-![login page](./images/snappy_login.png)
+![login page](./images/conversify_login.png)
 
-![home page](./images/snappy.png)
+![home page](./images/conversify.png)
 
 ## Installation Guide
 
